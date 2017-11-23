@@ -83,7 +83,8 @@ hr {
 	border-color: rgba(231, 231, 231, 0);
 }
 #menu a.navbar-brand {
-	font-family: 'Moul', cursive; 
+	font-family: 'Moul', cursive;
+	font-family: 'Preahvihear', cursive;
 	font-size: 22px;
 	color: #ddd;
 	font-weight: 700;
